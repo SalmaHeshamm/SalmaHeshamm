@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Salma Hesham  
 
-<!--
-**SalmaHeshamm/SalmaHeshamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Engineer | 💻 Passionate about Machine Learning & Computer Vision | 🚀 Explorer of new technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I’m working on
+- 🧠 AI projects (Computer Vision, NLP, Recommender Systems)
+- 📡 IoT & Embedded Systems
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/salmahesham1/
+- Email: salmahesham1415@gmail.com  
+
+---
+
+⭐️ From [SalmaHesham](https://github.com/SalmaHeshamm)
