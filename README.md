@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=SalmaHeshamm&color=blueviolet)
 
 # Hi there, I'm Salma Hesham Ibrahim! 👋
 
@@ -47,8 +47,6 @@ Passionate **Artificial Intelligence Engineer** with a strong foundation in mach
 ## 📈 GitHub Stats
 
 ![Salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect!
 
