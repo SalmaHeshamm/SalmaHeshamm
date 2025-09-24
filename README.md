@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SalmaHeshamm&color=blueviolet)
 
-# Hi there, I'm Salma Hesham Ibrahim! 👋
+# Hi there, I'm Salma Hesham! 👋
 
 ## 🚀 About Me
 
@@ -43,10 +43,6 @@ Passionate **Artificial Intelligence Engineer** with a strong foundation in mach
 🤖 **Robotics Certification**  
 🧠 **HCIA-AI Certification**  
 💾 **NTI Computer Vision intership**  
-
-## 📈 GitHub Stats
-
-![Salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ## 🤝 Let's Connect!
 
